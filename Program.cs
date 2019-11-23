@@ -148,7 +148,7 @@ namespace HomeWork20191111
                 }
             if (!isExist)
                 Console.WriteLine("Your number is not exists in matrix");
-/*/Exercise 3
+//Exercise 3
             Console.WriteLine("**********");
             Console.WriteLine("Exercise 3");
             Console.WriteLine("**********");
@@ -178,7 +178,7 @@ namespace HomeWork20191111
    
 
             }while( isContinue(matrix1 ,3 ));
-           Console.WriteLine("Was {0} hits from {1} attempts",mark,number);*/
+           Console.WriteLine("Was {0} hits from {1} attempts",mark,number);
 //Exercise 4
            Console.WriteLine("**********");
            Console.WriteLine("Exercise 4");
